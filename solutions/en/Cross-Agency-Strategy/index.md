@@ -1,7 +1,7 @@
 ---
 section: solutions
 layout: apps
-title: Develop and Implement a Cross Agency Strategy
+title: Develop and implement a cross agency strategy
 creators: 
 website: "https://www.w3.org/2013/share-psi/bp/cas/"
 image: 
@@ -15,7 +15,7 @@ end:
 countries: Europe, North America
 region: Europe, North America
 cost: 
-problem: Develop and Implement a Cross Agency Strategy
+problem: Develop and implement a cross agency strategy
 ---
 
 ## The problem
