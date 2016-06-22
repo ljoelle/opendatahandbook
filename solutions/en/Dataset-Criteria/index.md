@@ -1,7 +1,7 @@
 ---
 section: solutions
 layout: apps
-title: Develop Dataset Criteria
+title: Develop dataset criteria
 creators: 
 website: "https://www.w3.org/2013/share-psi/bp/dc/"
 image: 
@@ -15,7 +15,7 @@ end:
 countries: Europe, U.S.
 region: Europe, North America
 cost: 
-problem: Develop Dataset Criteria
+problem: Develop dataset criteria
 ---
 
 ## The problem
