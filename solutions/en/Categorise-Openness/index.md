@@ -1,7 +1,7 @@
 ---
 section: solutions
 layout: apps
-title: Categorise Openness of Data
+title: Categorise openness of data
 creators: 
 website: "https://www.w3.org/2013/share-psi/bp/cod/"
 image: 
@@ -15,7 +15,7 @@ end:
 countries: Europe, Global
 region: Europe, Global
 cost: 
-problem: Categorise Openness of Data
+problem: Categorise openness of data
 ---
 
 ## The problem
