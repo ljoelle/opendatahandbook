@@ -1,7 +1,7 @@
 ---
 section: solutions
 layout: apps
-title: Encourage Crowdsourcing around Public Sector Information
+title: Encourage crowdsourcing around Public Sector Information
 creators: 
 website: "https://www.w3.org/2013/share-psi/bp/ec/"
 image: 
@@ -15,7 +15,7 @@ end:
 countries: Europe, Global
 region: Europe, Global
 cost: 
-problem: Encourage Crowdsourcing around PSI
+problem: Encourage crowdsourcing around PSI
 ---
 
 ## The problem
